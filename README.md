@@ -1,0 +1,1 @@
+Sanitized UI evidence for ShayanAbbas1/dbdelve#259. Actual macOS app captures with dummy values only. The 18-second demo shows SSM configuration and tunnel-mode switching, with idle gaps shortened. No live connection is attempted in this recording. Source commit: f232961a0fab7cb221776f41d7c19bb28f431ae6. Media are separate from the source PR.
